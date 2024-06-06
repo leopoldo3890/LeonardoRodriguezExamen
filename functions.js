@@ -1,5 +1,5 @@
 //"Hola"
-function saludar() {
-    console.log("Hola");
+function despedir() {
+    console.log("Adios");
 }
-saludar();
+despedir();
